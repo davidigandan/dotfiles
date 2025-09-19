@@ -102,3 +102,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+
+# david's aliases
+alias zfresh="source ~/.zshrc"
+alias cdw="cd ~/Desktop/workspaces"
+
+export PATH="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl:$PATH"
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
